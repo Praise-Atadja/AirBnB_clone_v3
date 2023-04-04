@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 """
-Starting the API
+Start API .
 """
+
 
 from flask import Flask, make_response, jsonify
 from os import getenv
