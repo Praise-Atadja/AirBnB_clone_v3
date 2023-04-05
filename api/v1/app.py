@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Start API.
+first endpoint (route) will be to return the status of your API
 """
 
 
