@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 """
-Starting the API
+first endpoint (route) will be to return the status of your API
 """
+
 
 from flask import Flask, make_response, jsonify
 from os import getenv
@@ -32,3 +33,4 @@ if __name__ == "__main__":
     app.run(host=getenv('HBNB_API_HOST'),
             port=getenv('HBNB_API_PORT'),
             threaded=True)
+    
