@@ -46,7 +46,7 @@ def link_amenity_to_place(place_id, amenity_id):
     """ Link Amenity object to place"""
 
     place = storage.get(Place, place_id)
-    iif place is None:
+    if place is None:
         abort(404)
     amenity = storage.get(Amenity, amenity_id)
     if amenity is None:
