@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Creates a new view for Place objects that handles all default RESTFul API actions
+Creates a new view for Place objects
 """
 
 from flask import abort, jsonify, request
