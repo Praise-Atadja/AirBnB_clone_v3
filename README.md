@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Praise Atadja- [Github](https://github.com/Praise-Atadja)
-Princess Asare- [Github](https://github.com/misskuukua)
+Princess Asare- [Github](https://github.com/misskukuua)
 
 
 Second part of Airbnb: Joann Vuong
