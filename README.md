@@ -154,7 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Praise Atadja- [Github]https://github.com/Praise-Atadja
+Praise Atadja- [Github](https://github.com/Praise-Atadja)
+Princess Asare- [Github](https://github.com/misskuukua)
 
 
 Second part of Airbnb: Joann Vuong
