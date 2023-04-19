@@ -157,7 +157,6 @@ No known bugs at this time.
 Praise Atadja- [Github](https://github.com/Praise-Atadja)
 Princess Asare- [Github](https://github.com/misskukuua)
 
-
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
